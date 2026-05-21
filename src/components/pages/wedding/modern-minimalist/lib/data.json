@@ -1,0 +1,35 @@
+{
+  "groom": "Alex",
+  "bride": "Karen",
+  "month": "February",
+  "day": "28",
+  "year": "2026",
+  "time": "2:30 PM",
+  "heroImage": "/images/elegant-garden/image-1.jpg",
+  "themeSong": "/audio/Theme-song.mp3",
+  "theme": {
+    "headingFont": "Imperial Script",
+    "headingFontUrl": "https://fonts.googleapis.com/css2?family=Imperial+Script&display=swap"
+  },
+  "music": {
+    "title": "Will You Love Me",
+    "artist": "Alex & Karen",
+    "slides": [
+      "/images/elegant-garden/image-1.jpg",
+      "/images/elegant-garden/image-2.jpg",
+      "/images/elegant-garden/image-3.jpg",
+      "/images/elegant-garden/image-4.jpg",
+      "/images/elegant-garden/image-5.jpg"
+    ]
+  },
+  "story": {
+    "title": "Our Love Story",
+    "preview": "From a shared coffee on a rainy afternoon to a lifetime.",
+    "fullStory": [
+      "It all started at a small, sun-drenched cafe. What was meant to be a quick coffee turned into hours of conversation about our shared dreams, favorite books, and a mutual love for old garden pathways.",
+      "Over the years, those conversations grew into a lifetime of memories. From hiking through misty mountains to quiet evenings spent planning our future, every moment brought us closer together.",
+      "Now, as we stand on the threshold of our greatest adventure yet, we are so grateful to have you by our side to witness the beginning of our forever."
+    ],
+    "bottomImage": "/images/elegant-garden/image-2.jpg"
+  }
+}

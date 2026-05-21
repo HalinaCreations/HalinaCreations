@@ -1,0 +1,120 @@
+{
+  "vintageRomance": {
+    "branding": {
+      "main": "Halina Creations",
+      "presents": "Halina Creations Presents"
+    },
+    "couple": {
+      "names": "Ponce & Zy",
+      "date": "04 / 22 / 26"
+    },
+    "hero": {
+      "title": "Save the Date",
+      "assets": {
+        "background": {
+          "mobile": "/images/vintage-romance/image-2.10.jpg",
+          "desktop": "/images/vintage-romance/image-2.10-desktop.png"
+        },
+        "overlay": {
+          "mobile": "/images/vintage-romance/overlay.png",
+          "desktop": "/images/vintage-romance/overlay-desktop.png"
+        }
+      }
+    },
+    "music": {
+      "trackTitle": "The Universe",
+      "artistNames": "Ponce and Zy",
+      "audioSource": "/audio/music-2.1.mp3",
+      "discImage": "/images/vintage-romance/cd.png",
+      "backgrounds": {
+        "mobile": "/images/vintage-romance/asset-2.1.png",
+        "desktop": "/images/vintage-romance/asset-2.1-desktop.png"
+      }
+    },
+    "gallery": {
+        "title": "Our Sweetest Moments",
+        "subtitle": "Captured memories of our journey.",
+        "images": [
+            "/images/vintage-romance/image-2.3.jpg",
+            "/images/vintage-romance/image-2.4.jpg",
+            "/images/vintage-romance/image-2.5.jpg",
+            "/images/vintage-romance/image-2.6.jpg",
+            "/images/vintage-romance/image-2.7.jpg",
+            "/images/vintage-romance/image-2.8.jpg",
+            "/images/vintage-romance/image-2.9.jpg",
+            "/images/vintage-romance/image-2.10.jpg"
+        ]
+    },
+    "story": {
+      "title": "Our Story",
+      "content": "From quiet moments shared under the starlight to the laughter that fills our home, every chapter of our journey has been written with love. What started as a simple conversation grew into a lifetime of promises, and today, we invite you to celebrate the start of our greatest adventure yet.",
+      "backgroundImage": "/images/vintage-romance/image-2.9.jpg",
+      "images": [
+            
+            "/images/vintage-romance/image-2.9.jpg",
+            "/images/vintage-romance/image-2.8.jpg",
+            "/images/vintage-romance/image-2.10.jpg",
+            "/images/vintage-romance/image-2.11.jpg"
+        ]
+    },
+    "eventDetails": {
+      "date": "2026-05-23",
+      "time": "4:00 PM - 10:00 PM",
+      "venue": "The Grand Willow Estate, Calabarzon"
+    },
+    "attendants": {
+      "title": "The Wedding Party",
+      "subtitle": "Standing beside us as we begin our forever.",
+      "backgroundImage": "/asset-2.png",
+      "groups": [
+        {
+          "role": "The Ladies",
+          "members": [
+            { "name": "Eleanor Vance", "title": "Maid of Honor" },
+            { "name": "Clara Morrow", "title": "Bridesmaid" },
+            { "name": "Seraphina Moss", "title": "Bridesmaid" },
+            { "name": "Isla Whitmore", "title": "Junior Bridesmaid" }
+          ]
+        },
+        {
+          "role": "The Gentlemen",
+          "members": [
+            { "name": "Arthur Pendelton", "title": "Best Man" },
+            { "name": "Silas Croft", "title": "Groomsman" },
+            { "name": "Julian Thorne", "title": "Groomsman" },
+            { "name": "Felix Dalloway", "title": "Ring Bearer" }
+          ]
+        }
+      ]
+    },
+    "dressCode": {
+      "title": "Dress Code",
+      "subtitle": "We can't wait to see you in your best.",
+      "style": "Modern Filipiniana & Barong Tagalog",
+      "description": "To celebrate our heritage and the elegance of the occasion, we kindly request our guests to wear Filipiniana-inspired attire.",
+      "colors": ["#4A5D4E", "#8A9A5B", "#C2B280", "#E5D3B3"],
+      "illustrationImage": "/shared-assets/dresscode.png",
+      "colorNote": "We invite you to draw inspiration from our wedding palette."
+    },
+    "location": {
+      "title": "The Setting",
+      "venueName": "Villa Escudero Plantations",
+      "venueAddress": "San Pablo City, Laguna, Philippines",
+      "description": "We invite you to join us amidst the timeless beauty of lush coconut groves and historic charm, a perfect backdrop for our new beginning.",
+      "mapLink": "https://goo.gl/maps/YOUR_ACTUAL_MAP_LINK",
+      "venueImage": "/images/vintage-romance/location1.png" 
+    },
+    "rsvp": {
+      "title": "The Response",
+      "subtitle": "Kindly favor us with your reply",
+      "deadline": "By the fifteenth of May, 2026",
+      "confirmationText": "We are honored to have you with us."
+    },
+    "footer": {
+      "note": "We look forward to celebrating this new chapter of our lives with the people we love most. Thank you for being part of our story.",
+      "hashtag": "#PonceLovesZy",
+      "coupleNames": "Ponce & Zy",
+      "footerImage": "/images/vintage-romance/image-2.10.jpg"
+    }
+  }
+}

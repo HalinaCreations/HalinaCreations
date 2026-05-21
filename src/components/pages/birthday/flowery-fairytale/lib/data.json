@@ -1,0 +1,132 @@
+{
+  "celebrant": "Isabella",
+  "age": "18",
+  "dateLabel": "Saturday",
+  "month": "May",
+  "day": "03",
+  "year": "2026",
+  "time": "5:00 PM",
+  "countdownTarget": "2026-05-03T17:00:00",
+  "videoHero": "/videos/flowery-fairytale-hero.mp4",
+  "themeSong": "/audio/Theme-song.mp3",
+  "music": {
+    "title": "Enchanted",
+    "artist": "Isabella's Playlist",
+    "slides": [
+      "/images/flowery-fairytale/image-1.jpg",
+      "/images/flowery-fairytale/image-2.jpg",
+      "/images/flowery-fairytale/image-3.jpg",
+      "/images/flowery-fairytale/image-4.jpg",
+      "/images/flowery-fairytale/image-5.jpg"
+    ]
+  },
+  "story": {
+    "title": "My Fairytale Journey",
+    "preview": "From tiny steps beneath the garden blooms to this magical milestone — eighteen years of wonder.",
+    "fullStory": [
+      "It all began on a warm May morning when a little girl arrived and turned the world into a brighter place. From her very first smile, it was clear that Isabella had a spark that could light up any room.",
+      "Through the years she chased butterflies in the garden, filled sketchbooks with whimsical drawings, and turned every ordinary day into a little fairytale of her own making. Every chapter of her life has been painted with color, laughter, and love.",
+      "Now, as she steps into eighteen, her story is only just beginning. We invite you to join us as we celebrate the girl who made our world more beautiful, more joyful, and infinitely more magical."
+    ],
+    "bottomImage": "/images/flowery-fairytale/image-6.jpg"
+  },
+  "program": [
+    {
+      "time": "5:00 PM",
+      "title": "Garden Arrival",
+      "location": "The Enchanted Venue Garden",
+      "type": "arrival"
+    },
+    {
+      "time": "5:30 PM",
+      "title": "Cocktail Hour",
+      "location": "The Blossom Lounge",
+      "type": "cocktail"
+    },
+    {
+      "time": "6:30 PM",
+      "title": "Grand Entrance",
+      "location": "The Crystal Ballroom",
+      "type": "entrance"
+    },
+    {
+      "time": "7:00 PM",
+      "title": "Dinner Service",
+      "location": "The Crystal Ballroom",
+      "type": "dinner"
+    },
+    {
+      "time": "8:00 PM",
+      "title": "18 Roses & Candles",
+      "location": "The Crystal Ballroom",
+      "type": "roses"
+    },
+    {
+      "time": "9:00 PM",
+      "title": "Dance the Night Away",
+      "location": "The Crystal Ballroom",
+      "type": "dance"
+    },
+    {
+      "time": "11:30 PM",
+      "title": "Farewell & Send-off",
+      "location": "Garden Terrace",
+      "type": "end"
+    }
+  ],
+  "gallery": [
+    "/images/flowery-fairytale/image-1.jpg",
+    "/images/flowery-fairytale/image-2.jpg",
+    "/images/flowery-fairytale/image-3.jpg",
+    "/images/flowery-fairytale/image-4.jpg",
+    "/images/flowery-fairytale/image-5.jpg"
+  ],
+  "entourage": {
+    "godparents": [
+      "Mr. & Mrs. Antonio Reyes",
+      "Mr. & Mrs. Carlos Santos",
+      "Mr. & Mrs. Miguel Rivera",
+      "Ms. Patricia Lim"
+    ],
+    "parents": {
+      "father": "Roberto Cruz",
+      "mother": "Maria Cruz"
+    },
+    "siblings": [
+      "Sofia Cruz",
+      "Luca Cruz"
+    ],
+    "bestFriends": [
+      "Camille Flores",
+      "Andrea Tan",
+      "Jasmine Ong",
+      "Nicole Reyes"
+    ],
+    "roses": [
+      "Aunt Elena",
+      "Cousin Marco",
+      "Uncle David",
+      "Lola Carmen",
+      "Tito Ramon",
+      "Bestie Camille",
+      "Bestie Andrea",
+      "Bestie Jasmine",
+      "Bestie Nicole",
+      "Cousin Bianca",
+      "Cousin Luis",
+      "Godmother Patricia",
+      "Godfather Antonio",
+      "Brother Luca",
+      "Sister Sofia",
+      "Papa Roberto",
+      "Mama Maria",
+      "Fairy Godmother"
+    ]
+  },
+  "venue": {
+    "name": "The Enchanted Garden Estate",
+    "venueImg": "/images/flowery-fairytale/venue.png",
+    "address": "123 Blossom Lane, Tagaytay City",
+    "mapUrl": "https://maps.google.com"
+  }
+}
