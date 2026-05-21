@@ -59,7 +59,7 @@ const StorySection = () => {
         {/* Decorative Background Image (Optional - Fixed or Parallax) */}
         {storyData.bottomImage && (
              <div className="absolute inset-0 -z-10 opacity-10">
-                 <Image fill src={storyData.bottomImage} className="w-full h-full object-cover grayscale" alt="Background" />
+                 <Image fill src={storyData.bottomImage} sizes="100vw" className="w-full h-full object-cover grayscale" alt="Background" />
              </div>
         )}
 

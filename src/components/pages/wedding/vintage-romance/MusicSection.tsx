@@ -125,6 +125,7 @@ const MusicSection = ({ autoPlay }: MusicSectionProps) => {
             fill
             src={musicData.discImage}
             alt="Music Disc" 
+            sizes="300px"
             className="object-contain drop-shadow-[0_25px_50px_rgba(0,0,0,0.6)]"
           />
         </motion.div>

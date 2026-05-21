@@ -128,6 +128,7 @@ function CatalogContent() {
                         fill
                         src={work.image} 
                         alt={work.title} 
+                        sizes="(max-width: 768px) 100vw, 33vw"
                         className="w-full h-full object-cover group-hover:scale-110 transition duration-700 ease-in-out" 
                       />
                       <div className="absolute top-4 right-4 bg-[#18312c]/90 backdrop-blur-sm px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-widest text-emerald-50 shadow-lg">

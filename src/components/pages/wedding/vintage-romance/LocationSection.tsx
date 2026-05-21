@@ -121,6 +121,7 @@ const LocationSection = () => {
                 fill
                 src={location.venueImage} 
                 alt="Venue Background" 
+                sizes="(max-width: 768px) 100vw, 50vw"
                 className="w-full h-full object-cover grayscale-[20%] group-hover:scale-110 transition-transform duration-[2s] ease-out"
               />
               <div className="absolute inset-0 bg-emerald-950/10 mix-blend-multiply" />

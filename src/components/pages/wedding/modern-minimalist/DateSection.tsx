@@ -25,6 +25,7 @@ const DateSection = () => {
                 fill
                 src={weddingData.heroImage}
                 alt="Save the Date" 
+                sizes="(max-width: 768px) 100vw, 50vw"
                 className="w-full h-full object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-[#5D4037]/20 to-transparent" />

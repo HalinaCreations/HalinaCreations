@@ -124,6 +124,7 @@ const ModernMinimalist = () => {
                         fill
                         src={weddingData.heroImage} 
                         alt="Hero" 
+                        sizes="100vw"
                         className="w-full h-full object-cover"
                     />
                     <div className="absolute inset-0 bg-black/30" />

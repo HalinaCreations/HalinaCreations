@@ -39,6 +39,7 @@ const AutoGallerySection = () => {
                 fill
                 src={imageSrc}
                 alt={`Gallery moment ${index}`}
+                sizes="(max-width: 768px) 75vw, 50vw"
                 className="object-cover pointer-events-none"
               />
               {/* Overlay remains for subtle interaction */}

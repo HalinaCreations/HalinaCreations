@@ -95,7 +95,7 @@ Elevate your world with bespoke digital solutions. From interactive invitations 
             transition={{ duration: 1, delay: 0.2 }}
             className="hidden lg:flex lg:w-1/2 justify-end select-none pointer-events-none"
           >
-            <Image src="/hc-logo.png" alt="Halina Creations Logo" width={550} height={550} className="w-full max-w-137.5 h-auto object-contain opacity-40 brightness-110 drop-shadow-2xl" />
+            <Image src="/hc-logo.png" alt="Halina Creations Logo" width={550} height={550} loading="eager" className="w-full max-w-137.5 h-auto object-contain opacity-40 brightness-110 drop-shadow-2xl" />
           </motion.div>
         </div>
       </section>

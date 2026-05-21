@@ -75,6 +75,7 @@ const LocationSection = () => {
                 fill
                 src={weddingData.location.ceremonyImg} 
                 alt="Ceremony Venue" 
+                sizes="(max-width: 768px) 100vw, 50vw"
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
               />
             </div>
@@ -129,6 +130,7 @@ const LocationSection = () => {
                 fill
                 src={weddingData.location.receptionImg} 
                 alt="Reception Venue" 
+                sizes="(max-width: 768px) 100vw, 50vw"
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
               />
             </div>

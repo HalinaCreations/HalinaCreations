@@ -30,6 +30,7 @@ const AutoGallerySection = () => {
                 fill
                 src={imageSrc}
                 alt={`Birthday gallery ${index}`}
+                sizes="(max-width: 768px) 75vw, 50vw"
                 className="object-cover pointer-events-none"
               />
               <div className="absolute inset-0 bg-[#C026D3]/0 hover:bg-[#C026D3]/5 transition-colors duration-300" />

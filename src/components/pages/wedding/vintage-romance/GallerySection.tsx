@@ -38,6 +38,7 @@ const GallerySection = () => {
                 fill
                 src={src}
                 alt={`Gallery image ${index}`}
+                sizes="(max-width: 768px) 72vw, 30vw"
                 className="object-cover grayscale-[20%] hover:grayscale-0 transition-all duration-1000 hover:scale-110"
               />
               {/* Subtle vintage tint overlay */}
