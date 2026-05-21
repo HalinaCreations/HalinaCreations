@@ -10,7 +10,7 @@ export const categories = ["All", "Wedding", "Birthday", "Corporate", "Social"];
 export const tiers = [
   { label: "All", price: "" },
   { label: "Essential", price: "₱1,999" },
-  { label: "Premium", price: "₱3,499" },
+  { label: "Premium", price: "₱3,299" },
   { label: "Heirloom", price: "Custom" }
 ];
 
@@ -39,7 +39,7 @@ export const pricingPackages = [
   },
   {
     tier: "Premium Package",
-    price: "₱3,499",
+    price: "₱3,299",
     description: "Advanced features for a fully integrated experience.",
     icon: React.createElement(Zap, { size: 24 }),
     features: [
@@ -64,6 +64,21 @@ export const pricingPackages = [
       "Custom Domain Link"
     ],
     highlight: false
+  }
+];
+
+export const founders = [
+  {
+    name: 'Alliah Mikaela Revedezo',
+    quote: 'Your story deserves a digital space that feels as beautiful as the moment itself.',
+    image: '/images/website/alliah.png',
+    portfolio: 'https://alliah-mikaela-revedezo.vercel.app/'
+  },
+  {
+    name: 'Franze Wiliam Calleja',
+    quote: 'A well-built website turns first impressions into lasting trust.',
+    image: '/images/website/franze.png',
+    portfolio: 'https://franzecalleja.vercel.app'
   }
 ];
 

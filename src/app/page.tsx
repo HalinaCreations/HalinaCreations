@@ -11,6 +11,7 @@ import {
 import Navbar from '@/components/shared/Navbar';
 import Footer from '@/components/shared/Footer';
 import AboutSection from '@/components/pages/AboutSection';
+import FoundersSection from '@/components/pages/FoundersSection';
 
 
 // --- IMPORT EXTERNAL DATA ---
@@ -261,6 +262,9 @@ Elevate your world with bespoke digital solutions. From interactive invitations 
           </motion.div>
         </div>
       </section>
+
+      {/* --- FOUNDERS SECTION --- */}
+      <FoundersSection />
 
       {/* --- FAQ SECTION --- */}
       <section className="py-32 bg-[#fcfdfc] px-6">
